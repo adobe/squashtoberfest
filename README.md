@@ -47,6 +47,11 @@ mentioning the qualifying contributors by their handle and asking them to get in
 touch with the Magento Community Engineering team to share t-shirt size and
 shipping address with us.
 
+#### Where Can I Chat With Other Magento Community Members?
+
+The best place is our Magento Community Engineering Slack! Join by clicking
+[this link](https://tinyurl.com/magento-engcom-slack).
+
 #### Is This Event Related To Hacktoberfest?
 
 We are doing essentially the same thing, in the same time frame, in a spirit of
