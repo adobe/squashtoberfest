@@ -4,8 +4,7 @@
 
 ## Squashtoberfest 2019
 
-We are gearing up for Squashtoberfest 2019 and this year we want include both
-Magento and Adobe repositories in the fun! In summary:
+We are gearing up for Squashtoberfest 2019, and this year we want to include both Magento and Adobe repositories in the fun! In summary:
 
 - To qualify, submit 5 or more pull requests during October 2019 to any open repositories
   under [github.com/adobe](https://github.com/adobe) or [github.com/magento](https://github.com/magento)
