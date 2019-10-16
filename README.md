@@ -8,6 +8,12 @@ We are gearing up for Squashtoberfest 2019, and this year we want to include bot
 
 - To qualify, submit 5 or more pull requests during October 2019 to any open repositories
   under [github.com/adobe](https://github.com/adobe) or [github.com/magento](https://github.com/magento)
+    - Please note that these pull requests should be of high quality! Adding
+        punctuation, rewriting sentences in documentation, or other such similar
+        patches that do not provide added value to the project will not be
+        counted! It is always best to tackle _open issues_ in the project
+        instead of sending a pull request without first having a conversation
+        about a changeset with the project maintainers.
 - At the end of the month we will crunch the numbers to see who qualified.
 - We will get in touch with qualifying contributors to get their shirt sizes and
     then ship them cool swag!
