@@ -29,7 +29,7 @@ If you are new to contribution then we recommend starting by reading up on our [
 If the issue is already fixed in `2.2-develop`, try to reproduce the issue on the `2.3-develop` branch. If the issue is reproducible, submit a pull request to `2.3-develop` to [port the fix](https://devdocs.magento.com/guides/v2.2/contributor-guide/contributing.html#porting).
 
 ### Will you count my pull request if I submitted it in October 2018 but it was merged in November 2018?
-All pull requests submitted in October 2018 will be counted in the SQUASHTOBERFEST program. We are trying to complete processing of all pull requests that were submitted in October as quickly as possible, but the review and acceptance process may require addition time to ensure the highest quality fixes.
+All pull requests submitted in October 2018 will be counted in the SQUASHTOBERFEST program. We are trying to complete the processing of all pull requests that were submitted in October as quickly as possible, but the review and acceptance process may require additional time to ensure the highest quality fixes.
 
 ### In which Magento release will my fix be available?
 When your fix is merged there will be an automatic message added to the pull request stating the version of Magento that we aim to include your fix in.
